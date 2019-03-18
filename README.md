@@ -1,3 +1,3 @@
 # RDQA
 RDQA custom form configuration 
-- replica of excel RDQA tool
+- replica of an excel RDQA tool
